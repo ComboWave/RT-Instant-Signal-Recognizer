@@ -2,6 +2,7 @@ TL:DR - Signal recognition using Arduino's and basic electronic components using
 
 July 19,2021 Roy Ben Avraham
 
+* Designed & executed to work under TinkerCAD platform *
 
 The idea of Real Time Instant Signal Recognizer (RTISR)
 By using scalar product of two vector we can use two different arrays and compare between them by using normalised correlation (normalised cross correlation).
